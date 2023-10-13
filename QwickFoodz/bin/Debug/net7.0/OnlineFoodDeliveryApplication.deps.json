@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OnlineFoodDeliveryApplication/1.0.0": {
+        "runtime": {
+          "OnlineFoodDeliveryApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineFoodDeliveryApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

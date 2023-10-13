@@ -1,0 +1,14 @@
+D:\QwickFoodz\bin\Debug\net7.0\OnlineFoodDeliveryApplication.exe
+D:\QwickFoodz\bin\Debug\net7.0\OnlineFoodDeliveryApplication.deps.json
+D:\QwickFoodz\bin\Debug\net7.0\OnlineFoodDeliveryApplication.runtimeconfig.json
+D:\QwickFoodz\bin\Debug\net7.0\OnlineFoodDeliveryApplication.dll
+D:\QwickFoodz\bin\Debug\net7.0\OnlineFoodDeliveryApplication.pdb
+D:\QwickFoodz\obj\Debug\net7.0\OnlineFoodDeliveryApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\QwickFoodz\obj\Debug\net7.0\OnlineFoodDeliveryApplication.AssemblyInfoInputs.cache
+D:\QwickFoodz\obj\Debug\net7.0\OnlineFoodDeliveryApplication.AssemblyInfo.cs
+D:\QwickFoodz\obj\Debug\net7.0\OnlineFoodDeliveryApplication.csproj.CoreCompileInputs.cache
+D:\QwickFoodz\obj\Debug\net7.0\OnlineFoodDeliveryApplication.dll
+D:\QwickFoodz\obj\Debug\net7.0\refint\OnlineFoodDeliveryApplication.dll
+D:\QwickFoodz\obj\Debug\net7.0\OnlineFoodDeliveryApplication.pdb
+D:\QwickFoodz\obj\Debug\net7.0\OnlineFoodDeliveryApplication.genruntimeconfig.cache
+D:\QwickFoodz\obj\Debug\net7.0\ref\OnlineFoodDeliveryApplication.dll

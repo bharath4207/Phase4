@@ -1,0 +1,14 @@
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\bin\Debug\net7.0\CafetariaCardManagement.exe
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\bin\Debug\net7.0\CafetariaCardManagement.deps.json
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\bin\Debug\net7.0\CafetariaCardManagement.runtimeconfig.json
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\bin\Debug\net7.0\CafetariaCardManagement.dll
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\bin\Debug\net7.0\CafetariaCardManagement.pdb
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\CafetariaCardManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\CafetariaCardManagement.AssemblyInfoInputs.cache
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\CafetariaCardManagement.AssemblyInfo.cs
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\CafetariaCardManagement.csproj.CoreCompileInputs.cache
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\CafetariaCardManagement.dll
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\refint\CafetariaCardManagement.dll
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\CafetariaCardManagement.pdb
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\CafetariaCardManagement.genruntimeconfig.cache
+C:\Users\BharathGurumurthy\OneDrive - Syncfusion\Desktop\CafetariaCardManagement\obj\Debug\net7.0\ref\CafetariaCardManagement.dll
